@@ -54,16 +54,3 @@ Detection-style datasets were converted into classification benchmarks by croppi
 
 The prompt files in `prompts/` are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/); see `LICENSE`. This license covers only the prompt files produced in this study, not the third-party datasets linked above.
 
-## Citation
-
-If you use the prompt files in your research, please cite:
-
-```bibtex
-@article{wang2026tmt,
-  title   = {TMT: Adapting CLIP to Infrared Imagery via Text-Derived Modality Knowledge Transfer},
-  author  = {Wang, Ruofan and Wang, Puzuo and Chen, Xin and Yu, Zibo and Yang, Jungang and Hou, Yi},
-  journal = {Knowledge-Based Systems},
-  note    = {Under review},
-  year    = {2026}
-}
-```
