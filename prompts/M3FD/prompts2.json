@@ -1,0 +1,77 @@
+{
+  "dataset": "customM3FD_ir_cube",
+  "prompts": {
+    "bus": [
+      "An infrared thermal image of bus revealing a public transport thermal signature with no hood-to-trunk proportion typical of private automobiles.",
+      "An infrared thermal image of bus capturing an elongated urban vehicle with dense thermal core and repetitive structural heat patterns along its length.",
+      "An infrared thermal image of a bus revealing a massive endothermic thermal mass with distinct hood-to-body proportion unlike shorter vehicles.",
+      "An infrared thermal image of bus presenting distinct thermal silhouette longer than trucks with bright door gaps and uniform interior radiance.",
+      "An infrared thermal image of bus where horizontal thermal length exceeds three standard vehicle lengths with consistent roofline heat.",
+      "An infrared thermal image of bus distinguished by its extreme thermal elongation and absence of the cabin-cargo temperature step seen in trucks.",
+      "An infrared thermal image of a bus exhibiting a distinct thermal silhouette longer than any car, with consistent compartment warmth rather than a separated cabin-cargo structure like trucks.",
+      "An infrared thermal image of a bus presenting broad side panels of steady passenger-compartment radiance without the cooler gaps seen in truck cargo sections.",
+      "An infrared thermal image of a bus with passenger compartment thermal mass far exceeding engine contribution, distinguishing it from truck cargo boxes.",
+      "An infrared thermal image of bus revealing a continuous horizontal thermal bridge from front to rear with distinct thermal gradients at passenger entry points and no cargo-box coolness."
+    ],
+    "car": [
+      "An infrared thermal image of a car lacking the elongated cargo section of trucks or the extended passenger compartment of buses.",
+      "An infrared thermal image of car lacking the elongated cargo section that distinguishes trucks in thermal silhouette.",
+      "An infrared thermal image of a car with a distinct hood-to-trunk thermal proportion, shorter than trucks and buses without cargo box elongation.",
+      "An infrared thermal image of car with distinct hood-to-trunk thermal proportion lacking the extreme elongation of buses or trucks.",
+      "An infrared thermal image of car exhibiting a private-vehicle thermal signature lacking the elongated cargo section seen in trucks or buses.",
+      "An infrared thermal image of a car with a distinct hood-to-trunk thermal proportion, shorter than trucks and buses, lacking cargo-box extension.",
+      "An infrared thermal image of car featuring a brief horizontal heat signature with distinct hood thermal bridge and cabin thermal core, lacking truck cargo section coolness.",
+      "An infrared thermal image of a car revealing a passenger vehicle heat signature with hood-to-trunk thermal proportion distinct from elongated buses or trucks.",
+      "An infrared thermal image of car showing a passenger vehicle thermal profile with hood-to-trunk proportion distinctly shorter than bus or truck.",
+      "An infrared thermal image of car distinguished from trucks by the absence of a separate elongated cargo-box thermal section."
+    ],
+    "lamp": [
+      "An infrared thermal image of a lamp with a narrow vertical thermal line and concentrated upper hotspot distinct from vehicle heat distribution.",
+      "An infrared thermal image of lamp showing no wheels, no engine glow, no horizontal body mass, only a slender vertical thermal form.",
+      "An infrared thermal image of a lamp lacking any ground-level thermal mass wheels or horizontal body structure.",
+      "An infrared thermal image of a lamp with a punctate elevated heat signature against sky coldness, vertically oriented unlike all horizontal vehicle masses.",
+      "An infrared thermal image of a lamp revealing a street light thermal signature with elevated isolated glow and absence of wheels or engine heat.",
+      "An infrared thermal image of lamp presenting no endothermic core or motion blur consistent with fixed roadside installation.",
+      "An infrared thermal image of a lamp displaying a vertical thermal line terminating in an isolated radiating point, distinct from all vehicle silhouettes.",
+      "An infrared thermal image of a lamp presenting a streetlight thermal pattern with ballast housing warmth, cold metal pole, and complete absence of tire signatures.",
+      "An infrared thermal image of a lamp revealing street-lighting thermal profile with elevated point-source radiance, absent wheels, engine, or horizontal body heat.",
+      "An infrared thermal image of lamp presenting fixed roadside thermal marker: vertical orientation, minimal structural heat, and isolated upper radiance."
+    ],
+    "motorcycle": [
+      "An infrared thermal image of motorcycle with axle warm points closely spaced and a thermal length shorter than cars.",
+      "An infrared thermal image of a motorcycle where the rider thermal mass sits atop a narrow machine heat signature creating stacked thermal layers.",
+      "An infrared thermal image of a motorcycle lacking the four-wheel ground contact pattern and wide cabin mass of passenger vehicles.",
+      "An infrared thermal image of a motorcycle showing minimal vertical thermal extent compared to upright pedestrians or lamp poles.",
+      "An infrared thermal image of motorcycle with elongated but extremely narrow track width lacking the broad hood mass of cars.",
+      "An infrared thermal image of motorcycle exhibiting single-cylinder or twin-cylinder thermal pattern, distinguishing it from wide car hood masses.",
+      "An infrared thermal image of motorcycle with elongated narrow footprint lacking the width and height of car thermal mass.",
+      "An infrared thermal image of motorcycle where the engine-bay glow sits centrally, not forward as in four-wheeled vehicles.",
+      "An infrared thermal image of motorcycle with thermal width insufficient for car classification and height below pedestrian torso.",
+      "An infrared thermal image of a motorcycle whose thermal width is drastically less than any four-wheeled vehicle in the scene."
+    ],
+    "people": [
+      "An infrared thermal image of people revealing a pedestrian with vertical thermal orientation, head hotspot, and differential clothing emissivity patterns.",
+      "An infrared thermal image of people where the head appears as a rounded thermal hotspot atop a narrower neck connection.",
+      "An infrared thermal image of people lacking the horizontal elongated mass of cars, buses, trucks, and the pole structure of lamps.",
+      "An infrared thermal image of people with thermal height exceeding width opposite to the flat wide profile of cars and trucks.",
+      "An infrared thermal image of people showing distinct from all vehicles by vertical orientation and absence of engine-bay glow or tire signatures.",
+      "An infrared thermal image of people with thermal height exceeding width in standing posture distinguishing all road vehicles.",
+      "An infrared thermal image of people contrasting with all vehicles by vertical orientation and absence of engine-bay glow ground-level tire signatures or cargo mass.",
+      "An infrared thermal image of people lacking the elongated horizontal mass and mechanical heat sources of all road vehicles.",
+      "An infrared thermal image of people exhibiting a pedestrian heat signature with shoulder width narrower than vehicle breadth and no wheel contact points.",
+      "An infrared thermal image of people lacking any horizontal elongated mass, wheels, or mechanical heat distribution of road vehicles."
+    ],
+    "truck": [
+      "An infrared thermal image of truck revealing a cabin-to-cargo thermal length ratio distinct from cars and buses, with possible exhaust plume signature.",
+      "An infrared thermal image of truck lacking the evenly distributed window-frame patterns of buses, showing blank cargo sides.",
+      "An infrared thermal image of a truck lacking the evenly distributed window-frame patterns characteristic of passenger buses.",
+      "An infrared thermal image of truck with flatbed or enclosed cargo thermal silhouette lacking window frame patterns of passenger vehicles.",
+      "An infrared thermal image of a truck where cabin-to-cargo thermal length ratio clearly separates it from cars and buses.",
+      "An infrared thermal image of truck with multiple rear axle warm points and possible exhaust stack thermal plume signature.",
+      "An infrared thermal image of a truck with higher thermal profile than cars and distinct from motorcycles by enclosed cabin mass.",
+      "An infrared thermal image of truck showing cabin-to-cargo thermal length ratio distinct from car's compact integrated silhouette.",
+      "An infrared thermal image of a truck exhibiting a large vehicle with cabin-to-cargo thermal length ratio distinct from cars and buses.",
+      "An infrared thermal image of a truck presenting a thermal gap or temperature step between cab and trailer with possible refrigeration unit heat signature on cargo section."
+    ]
+  }
+}

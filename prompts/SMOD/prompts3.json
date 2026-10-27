@@ -1,0 +1,53 @@
+{
+  "dataset": "custom_SMOD",
+  "prompts": {
+    "bicycle": [
+      "A TIR image of a bicycle under occlusion with partial dark frame fragment lacking any biological heat signature.",
+      "An infrared thermal image of a bicycle distinguished by absence of seated torso heat and rectangular vehicle bulk.",
+      "An infrared image of a bicycle with handlebar stubs visible as dim thermal protrusions without head-hotspot.",
+      "An infrared thermal image of a bicycle distinguished from motorcycles by complete lack of engine compartment heat beacon or exhaust plume.",
+      "An infrared thermal image of a bicycle distinguished by slender thermal silhouette and complete absence of seated human torso heat.",
+      "Infrared observation of a bicycle with thin thermal silhouette lacking the rectangular bulk and hood glow of automotive heat sources.",
+      "An infrared thermal image of a bicycle distinguished by absence of exhaust manifold heat plume and rectangular bulk typical of motorized transport.",
+      "An infrared thermal image of a bicycle exhibiting skeletal thermal silhouette of dark metal bars, with no head-hotspot or upright torso to confuse with pedestrians.",
+      "Infrared signature of a bicycle distinguished by absence of seated rider heat and absence of rectangular engine compartment glow.",
+      "An infrared thermal image of a bicycle distinguished from motorcycles by complete absence of engine manifold glow or warm mechanical thermal beacon."
+    ],
+    "car": [
+      "An infrared thermal image of a car distinguished from riders by absence of upright humanoid silhouette and presence of exhaust heat signature.",
+      "An infrared thermal image of a car distinguished from seated riders by its massive rectangular silhouette and absence of upright humanoid head-shoulder contour.",
+      "An infrared thermal image of a car lacking any humanoid head-shoulder contour or seated torso heat signature of traffic participants.",
+      "An infrared image of a car with rectangular thermal silhouette distinguished from humanoid heat distributions.",
+      "An infrared thermal image of a car under partial occlusion with hood hotspot and upper cabin轮廓 still visible, lacking the head-shoulder fragment pattern of occluded pedestrians.",
+      "An infrared thermal image of a car showing prominent rectangular hood thermal beacon from engine-bay glow with dark reflective body panel emissivity.",
+      "An infrared thermal image of a car showing large rectangular dark metal body with cold reflections, contrasting with warm-blooded silhouette of pedestrian.",
+      "A thermal image showing a car's partial occlusion fragment with visible hood hotspot and upper windshield cold reflection, lacking humanoid silhouette.",
+      "An infrared thermal image of a car with a rectangular bulk silhouette and multiple distributed heat sources distinguishing it from human-scale warm objects.",
+      "An infrared thermal image of a car with tire and brake friction hotspots combined with hood thermal maximum distinguishing it from humanoid shapes."
+    ],
+    "person": [
+      "An infrared thermal image of a person presenting group thermal blob pattern of multiple similar-sized upright humanoid silhouettes.",
+      "An infrared thermal image of a person differentiated from car by humanoid silhouette versus rectangular bulk and absence of engine-bay glow.",
+      "An infrared thermal image of a person with full standing height exceeding seated posture alternatives in the scene.",
+      "An infrared thermal image of a person appearing as isolated humanoid heat blob without attached vehicle components or engine emission signatures.",
+      "An infrared thermal image of a person distinguished from bicycles by its humanoid heat core and from cars by absence of engine-bay glow or rectangular bulk.",
+      "An infrared thermal image of a person lacking engine-bay glow or exhaust plume that characterizes motorized vehicles.",
+      "An infrared thermal image of a person presenting standing posture taller than seated targets with isolated humanoid contour and no handlebar stubs.",
+      "An infrared thermal image of a person with vertical thermal silhouette taller than seated postures and lacking handlebar thermal stubs.",
+      "An infrared thermal image of a person showing no engine-bay glow, no exhaust plume, and no cold reflective metal bulk nearby.",
+      "An infrared thermal image of a person showing group behavior with multiple similar-sized warm blobs lacking engine-bay glow or frame structures."
+    ],
+    "rider": [
+      "An infrared thermal image of a rider showing head-hotspot above handlebar thermal stubs, the seated posture and vehicle attachment separating it from both upright walkers and unmounted cold bicycles.",
+      "An infrared thermal image of a rider distinguished from standing pedestrian by reduced height and vehicle attachment.",
+      "An infrared thermal image of a rider distinguished from car by small scale, absence of hood engine-glow, and presence of biological head-hotspot.",
+      "An infrared thermal image of a rider exhibiting lower posture than pedestrians with torso-bicycle thermal bridge formation.",
+      "An infrared thermal image of a rider exhibiting lower posture than standing pedestrian with attached vehicle components.",
+      "An infrared thermal image of a rider displaying reduced vertical extent compared to standing pedestrians with attached handlebar thermal stubs.",
+      "An infrared thermal image of a rider distinguished from standalone bicycles by its warm-blooded thermal core and from cars by small size and absence of engine glow.",
+      "An infrared thermal image of a rider distinguishable from cars by small scale, humanoid head presence, and absence of engine-bay glow.",
+      "An infrared thermal image of a rider distinguished from standing pedestrians by reduced height and fused vehicle thermal attachment.",
+      "An infrared thermal image of a rider distinguished from standalone bicycles by attached biological heat core and seated silhouette."
+    ]
+  }
+}

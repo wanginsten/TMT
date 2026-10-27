@@ -1,0 +1,29 @@
+{
+  "dataset": "llvip",
+  "prompts": {
+    "background": [
+      "An infrared patch of class background showing parked vehicle roof as a rectangular low-emissivity thermal mass with horizontal orientation and no head hotspot.",
+      "An infrared patch of class background showing a building wall as a vertical cold surface with homogeneous radiance and absence of head-shoulder thermal hierarchy.",
+      "An infrared patch of class background showing building facade as a flat vertical surface devoid of internal heat generation.",
+      "An infrared patch of class background revealing a rectangular metallic surface with possible hood hotspot but no cephalic maximum.",
+      "An infrared patch of class background presenting flat building facade as uniform cold vertical surface without endothermic thermal core or appendages.",
+      "An infrared patch of class background showing concrete sidewalk as a flat cold thermal plane lacking vertical humanoid structure.",
+      "An infrared patch of class background revealing a static flat vertical concrete wall with uniform emissivity and no internal heat generation.",
+      "An infrared patch of class background revealing a static concrete sidewalk as a flat thermally inert horizontal plane.",
+      "An infrared patch of class background exhibiting a rectangular metallic thermal mass with possible hood hotspot but lacking head-shoulder structure.",
+      "An infrared patch of a parked vehicle roof presenting rectangular cold thermal geometry with possible residual hood heat but no bipedal contour."
+    ],
+    "person": [
+      "An infrared patch of class person showing articulated warm appendages projecting from a vertical core heat column.",
+      "An infrared patch of class person showing vertical elongation exceeding horizontal span, with cranial apex as the highest local thermal maximum.",
+      "An infrared patch of class person demonstrating bipedal locomotion asymmetry with differential limb thermal positioning and sustained upright posture.",
+      "An infrared patch of class person demonstrating asymmetric limb positioning consistent with gait cycle, one appendage advanced, one retracted.",
+      "An infrared patch of class person showing a warm-blooded organism exhibiting orthograde posture with bilateral thermal symmetry in the lower extremities.",
+      "A warm-blooded bipedal thermal silhouette exhibiting distinct shoulder-torso tapering and articulated arm heat signatures in nighttime LWIR.",
+      "Pedestrian group forming multiple similar-sized bright thermal blobs with coordinated upright posture.",
+      "An infrared patch revealing a head-shoulder-torso thermal hierarchy where the cranium emits peak radiance and limbs extend as warm appendages.",
+      "An infrared patch of class person showing an endothermic bipedal thermal mass with a distinct cranial hotspot radiating against cold ambient surroundings.",
+      "A coherent thermal mass with exposed head region forming the brightest local radiance peak within a humanoid contour."
+    ]
+  }
+}

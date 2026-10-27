@@ -1,0 +1,50 @@
+{
+  "backpack": [
+    "A thermal infrared crop of a backpack in a tunnel environment, partial view showing one visible strap and main compartment bulge from side angle.",
+    "In a thermal infrared crop from a tunnel interior, a backpack shows thermal contrast variations between padded regions and possible mesh backing texture.",
+    "In a thermal infrared image from an underground haulage, a backpack shows dual compartment bulge with central dividing line and thermal contrast at fabric fold.",
+    "A thermal infrared crop of a backpack in a tunnel scene, displaying a low-contrast pack boundary with possible side pocket bulge as rounded thermal extension.",
+    "A backpack in a thermal infrared crop from an underground tunnel shows a rounded main body with possible strap loops creating upper contour irregularities.",
+    "In a thermal infrared crop from a mine setting, a backpack appears as a rounded thermal mass with possible mesh panel texture creating irregular grayscale variation on the back face.",
+    "In a thermal infrared image from an underground mine, a backpack shows small scale with minimal detail, recognizable by general pack silhouette against floor.",
+    "In a thermal infrared crop from an underground mine, a backpack appears with uneven thermal appearance across worn fabric surface and possible zipper line indentation.",
+    "In a thermal infrared image from a mine passage, a backpack displays rectangular pack body with uneven thermal appearance across fabric seams.",
+    "In a thermal infrared crop from an underground stope, a backpack shows possible worn corner rounding creating softened angles at the lower pack periphery."
+  ],
+  "fireextinguisher": [
+    "In a thermal infrared crop from a tunnel scene, a fire extinguisher appears mounted against wall with mounting bracket shadow creating adjacent dark region.",
+    "In a thermal infrared crop from underground, a fire extinguisher presents a metal tank outline with possible discharge nozzle angle and muted thermal boundary.",
+    "In a thermal infrared crop from an underground mine, a fire extinguisher appears with grayscale boundary outlining shoulder curve where cylinder meets neck.",
+    "In a thermal infrared image from a tunnel setting, a fire extinguisher appears with thermal contrast outlining the rounded canister against flat ground surface.",
+    "In a thermal infrared crop from an underground drift, a fire extinguisher displays possible seam line creating vertical thermal streak along the canister length.",
+    "In a thermal infrared crop from a subterranean corridor, a fire extinguisher displays cylindrical form with possible hose recess and grayscale boundary at label adhesive residue outline.",
+    "In a thermal infrared crop of a mine wall, a fire extinguisher shows possible carrying handle creating an arched thermal bridge above the valve assembly.",
+    "In a thermal infrared crop from an underground tunnel, a fire extinguisher shows lengthwise seam or weld line along cylindrical wall.",
+    "In a thermal infrared image of a mine ledge, a fire extinguisher appears with possible nozzle cap creating a short thermal stub projecting from the valve assembly.",
+    "In a thermal infrared crop of a tunnel corner, a fire extinguisher exhibits possible mounting strap as a horizontal thermal band wrapping the canister midsection."
+  ],
+  "handdrill": [
+    "In a thermal infrared image of a mine environment, a hand drill shows a tapered or blocky motor shape with possible direction switch bump visible near the grip top rear.",
+    "A thermal infrared crop from an underground passage contains a hand drill with partial view of motor ventilation slots creating linear thermal pattern.",
+    "A thermal infrared crop of a hand drill in a mine, with lying orientation revealing side profile and trigger guard shape as subtle protrusion.",
+    "A thermal infrared crop from a mine gallery contains a hand drill with forward chuck extension and possible trigger guard outline below grip.",
+    "A long-wave infrared crop from a tunnel niche contains a hand drill with partial view showing motor housing rear cap and possible belt clip protrusion.",
+    "In a thermal infrared crop from a tunnel wall, a hand drill appears with battery pack forming rectangular base extension below trigger area.",
+    "A hand drill in a thermal infrared crop from a tunnel wall area shows partial top view with possible spindle lock button as tiny thermal dot near the chuck base.",
+    "A hand drill in a thermal infrared crop from a tunnel floor, with elongated body shape and possible battery base visible in grayscale outline.",
+    "In a thermal infrared crop from a mine scene, a hand drill displays partial view with chuck key hole visible as small circular feature near spindle base.",
+    "In a thermal infrared image from an underground passage, a hand drill shows resting attitude on stone with body tilt and possible thermal contrast at ground support."
+  ],
+  "rescuerandy": [
+    "In a thermal infrared crop from a mine passage, a rescue mannequin appears with a rounded cranial outline and possible neck transition to broader shoulder width.",
+    "A thermal infrared crop from an underground storage area contains a rescue mannequin with extended arm position and possible shoulder socket depression at torso side.",
+    "A rescue mannequin in a thermal infrared image of a mine passage shows a humanoid outline with possible head sphere creating a rounded thermal cap atop the torso cylinder.",
+    "A rescue mannequin in a thermal infrared crop from a subterranean tunnel appears distant with simplified head-body-limb segmentation and reduced facial detail.",
+    "A rescue mannequin in a thermal infrared crop from a subterranean tunnel appears supine with extended leg portions and possible arm at side or across body.",
+    "A rescue mannequin in a thermal infrared crop from an underground tunnel shows a humanoid head with possible neck articulation seam as a horizontal thermal groove below the cranial sphere.",
+    "A thermal infrared crop from a tunnel captures a rescue mannequin lying prone or supine, its extended arm and leg forms creating elongated human-like outline.",
+    "A thermal infrared crop from an underground workings shows a rescue mannequin with abducted arm position and possible shoulder socket indentation.",
+    "In a thermal infrared image of a tunnel passage, a rescue mannequin appears with possible clothing fold creating irregular thermal texture across the torso region.",
+    "A rescue mannequin in a thermal infrared crop from an underground tunnel shows prone position with back contour and possible head turn to one side."
+  ]
+}

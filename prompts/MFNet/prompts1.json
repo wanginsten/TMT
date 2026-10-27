@@ -1,0 +1,98 @@
+{
+  "bike": [
+    "In a thermal infrared crop from a road scene, a bike displays partial wheel visibility where frame tubes overlap the rim.",
+    "A thermal infrared crop from a traffic view showing a bike, where the two-wheeler structure includes a triangular frame section and possible pedal area.",
+    "In a thermal infrared street scene, a bike appears with only the frame triangle visible, wheels cropped by image boundary.",
+    "A thermal infrared crop of a parking lot containing a bike, showing minimal protrusion above ground plane with low profile thermal contrast patch.",
+    "A thermal infrared crop from street traffic contains a bike with kickstand extended creating thin diagonal support line.",
+    "A thermal infrared crop from street traffic contains a bike with front fork blades visible between handlebar stem and wheel axle.",
+    "A bike in a thermal infrared traffic view displays a small distant form with reduced detail and faint structural hint.",
+    "In a thermal infrared street crop, a bike presents slender horizontal top tube linking seat and head points.",
+    "A thermal infrared crop from street traffic contains a bike with triangular frame silhouette and visible pedal crank region.",
+    "A thermal infrared crop from street traffic contains a bike viewed from above with both wheels and pedal area discernible."
+  ],
+  "bump": [
+    "A thermal infrared crop from street traffic contains a road speed bump with weathered edges blending into asphalt.",
+    "A thermal infrared crop from street traffic contains a road speed bump with bolt heads visible along its center line.",
+    "A road speed bump in a thermal infrared crop from a road scene, where the raised transverse form creates a subtle grayscale edge.",
+    "In a thermal infrared road scene, a road speed bump presents a partial view with one end cropped by image boundary and visible taper.",
+    "A thermal infrared road image contains a road speed bump with a narrower raised strip and tapered ends.",
+    "In a thermal infrared crop, a road speed bump reveals a narrow oblique placement angled across the road surface.",
+    "A thermal infrared crop from street traffic contains a road speed bump with elongated raised profile interrupting flat asphalt.",
+    "A thermal infrared crop from a road scene shows a road speed bump with segmented construction joint across its width.",
+    "A thermal infrared crop from street traffic contains a road speed bump with nearby curb or gutter context at frame edge.",
+    "A thermal infrared crop from street traffic contains a road speed bump with gradual approach slope and sharper crest edge."
+  ],
+  "car": [
+    "A thermal infrared crop of a car in parking area, with partial hood length visibility and conservative thermal silhouette with context.",
+    "A thermal infrared crop from street traffic contains a car with visible wheel arches and circular tire lower portions.",
+    "A thermal infrared crop from street traffic contains a car with hood and front fascia forming a lower horizontal thermal boundary.",
+    "A thermal infrared crop from street traffic contains a car with wheel well arches and possible tire lower profile.",
+    "A thermal infrared crop from street traffic contains a car with visible wheel wells and circular tire outline at corners.",
+    "A thermal infrared crop from street traffic contains a car with side mirror protrusion at front door height.",
+    "A thermal infrared crop from street traffic contains a car with door seam lines dividing side body panels.",
+    "A thermal infrared crop from a road scene shows a car with partial view where bumper corner enters frame edge.",
+    "A thermal infrared crop from street traffic contains a car with wheel arches forming semicircular cutouts at body corners.",
+    "A thermal infrared crop from street traffic contains a car viewed from above with roof and hood forming broad upper surfaces."
+  ],
+  "carstop": [
+    "In a thermal infrared crop, a parking wheel stop reveals a low profile barely distinguishable from flat pavement plane.",
+    "A thermal infrared crop of a parking wheel stop in a road scene, with possible chipped corner detail and uneven thermal appearance near drainage grate.",
+    "In a thermal infrared traffic view, a parking wheel stop reveals a rectangular mass with possible rear taper or slope.",
+    "A thermal infrared crop from street traffic contains a parking wheel stop with surface wear visible as irregular thermal pattern.",
+    "A thermal infrared crop from a road scene reveals a parking wheel stop with possible bolt holes or anchors at its ends.",
+    "A thermal infrared crop from street traffic contains a parking wheel stop with bolt or anchor visible at end region.",
+    "A parking wheel stop in a thermal infrared crop shows a small distant target with simplified low horizontal bar silhouette.",
+    "A thermal infrared crop from a road environment containing a parking wheel stop, where the block shape interrupts flat parking surface continuity.",
+    "A thermal infrared crop from a parking lot shows a parking wheel stop with weathered surface texture varying in thermal appearance.",
+    "A thermal infrared street view contains a parking wheel stop with wheel contact face showing abrasion or wear pattern."
+  ],
+  "colorcone": [
+    "A traffic cone in a thermal infrared crop, with partial lower taper and base visibility still preserving enough cone proportion for recognition.",
+    "A thermal infrared crop from street traffic contains a traffic cone with reflective collar band creating horizontal mid-section boundary.",
+    "A thermal infrared crop containing a traffic cone, where the semantic region retains surrounding road and work zone background in rectangle.",
+    "A thermal infrared crop of a road scene shows a traffic cone partially cropped with base and lower taper visible.",
+    "A thermal infrared crop from street traffic contains a traffic cone with possible thermal contrast between hollow interior and solid base.",
+    "In a thermal infrared road scene, a traffic cone presents a partial view with tip cropped above and visible taper from midsection.",
+    "A thermal infrared crop from a traffic area containing a traffic cone, displaying a narrow-topped cone silhouette with gradual base expansion in grayscale contrast.",
+    "A traffic cone in a thermal infrared crop of daytime access, with a leaning posture creating an angled thermal axis rather than vertical alignment.",
+    "A thermal infrared crop from a parking zone shows a traffic cone with conical silhouette and possible weighted base.",
+    "A traffic cone visible in a thermal infrared crop from a road scene, where the symmetrical taper and base proportion suggest the target."
+  ],
+  "curve": [
+    "A thermal infrared crop from street traffic contains a curve with adjacent lane marking entering annotated region.",
+    "A thermal infrared crop from street traffic contains a curve with possible overlap with other semantic annotations.",
+    "A thermal infrared crop from street traffic contains a curve with adjacent road edge or shoulder transition.",
+    "A thermal infrared crop from street traffic contains a curve with possible thermal contrast between annotated region and nearby flat road.",
+    "A thermal infrared crop from intersection approach containing a curve, showing road pavement thermal appearance with variable grayscale contrast.",
+    "A thermal infrared crop from street traffic contains a curve with boundary line or curb feature within region.",
+    "In a thermal infrared road scene, a curve may appear with subtle thermal texture differences across annotated surface area.",
+    "A thermal infrared crop from urban traffic contains a curve with thermal contrast where pavement texture or material changes along its boundary.",
+    "In a thermal infrared urban road crop, a curve appears with partial visibility truncated by image frame edge.",
+    "A thermal infrared crop from street traffic contains a curve partially overlapped by vehicle tire contact or road marking."
+  ],
+  "guardrail": [
+    "A thermal infrared street crop captures a guardrail with corrugated or smooth beam profile along top rail.",
+    "A thermal infrared crop of traffic contains a guardrail viewed from acute angle compressing apparent post spacing.",
+    "A thermal infrared crop from street traffic contains a guardrail following road edge curvature in parallel alignment.",
+    "A thermal infrared crop from a roadside view contains a guardrail with vertical posts at regular spacing intervals.",
+    "A thermal infrared crop from a road scene reveals a guardrail with w-beam profile or smooth rail cross-section outline.",
+    "A thermal infrared crop of a guardrail in traffic, with possible w-beam suggestion and conservative thermal silhouette with context.",
+    "A thermal infrared crop from street traffic contains a guardrail with curved terminal end at bridge or embankment approach.",
+    "In a thermal infrared traffic view, a guardrail reveals a w-beam profile with corrugated face and flat top edge.",
+    "A thermal infrared crop from street traffic contains a guardrail with terminal end treatment and flared approach section visible.",
+    "A thermal infrared crop from street traffic contains a guardrail with bridge transition to concrete parapet wall."
+  ],
+  "person": [
+    "A thermal infrared street crop contains a person with arms and legs visible in walking stance.",
+    "A thermal infrared crop from street traffic contains a person with possible thermal variation from clothing layers.",
+    "A thermal infrared crop from street traffic contains a person with seated posture and knees raised at hip level.",
+    "A thermal infrared crop from street traffic contains a person with partial body when crop edge truncates figure.",
+    "A thermal infrared street crop reveals a person with partial view where only upper body remains in frame.",
+    "A thermal infrared crop of roadside scene showing a person, where body contour and clothing coverage create uneven grayscale thermal appearance.",
+    "A thermal infrared crop from a roadside viewpoint containing a person, where partial visibility retains upper body and head region.",
+    "A thermal infrared crop from street traffic contains a person with arms swinging in walking gait pattern.",
+    "A thermal infrared crop of traffic contains a person viewed from behind with shoulder width and back contour.",
+    "A thermal infrared crop from street traffic contains a person seated on curb with bent knees and lowered head posture."
+  ]
+}

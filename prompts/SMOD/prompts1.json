@@ -1,0 +1,53 @@
+{
+  "dataset": "custom_SMOD",
+  "prompts": {
+    "bicycle": [
+      "An infrared thermal image of a bicycle distinguished by complete absence of exhaust manifold glow and seated human torso attachment in dense campus traffic.",
+      "An infrared thermal image of a bicycle distinguishable by complete absence of rectangular bulk and persistent thermal beacons in dense campus traffic.",
+      "A partially occluded bicycle revealing only its dark triangular frame silhouette with no thermal beacon present.",
+      "An infrared thermal image of a bicycle appearing as disjointed cold linear fragments when partially occluded by pedestrians in dense campus traffic.",
+      "A thermal image of a bicycle with dark frame tubes and wheel circles lacking the rectangular bulk of motorized vehicles.",
+      "An infrared thermal image of a bicycle exhibiting fragmented cold frame visible through occlusion, lacking the seated torso heat signature that would indicate a rider.",
+      "Infrared view of a bicycle with dark low-emissivity tubing, absent exhaust manifold, and no seated human torso attached.",
+      "An infrared thermal image of a bicycle revealing thin thermal edges of frame members distinguishable from rectangular vehicle bulk or humanoid warmth.",
+      "Occluded bicycle revealing only handlebar thermal stubs and partial wheel arc without human torso heat.",
+      "Occluded bicycle fragment revealing partial wheel arc and frame tube with characteristic absence of engine-bay beacon."
+    ],
+    "car": [
+      "An infrared thermal image of a car dominated by a persistent hood thermal beacon from engine-bay glow, absent in all human and bicycle targets.",
+      "Occluded car showing hood hotspot and windshield cold reflection, lower body hidden.",
+      "An infrared thermal image of a car distinguished by rectangular silhouette and engine heat absence of bipedal limb articulation or seated posture.",
+      "An infrared thermal image of a car showing prominent rectangular hood thermal beacon from engine-bay glow distinct from humanoid heat distribution.",
+      "An infrared thermal image of a car exhibiting hood thermal beacon still visible when lower chassis is occluded by other vehicles or pedestrians.",
+      "An infrared thermal image of a car captured with cold reflection artifacts from glass and painted surfaces surrounding bright thermal core, lacking the articulated bipedal silhouette of upright pedestrians.",
+      "An infrared thermal image of a car distinguished from riders by massive rectangular heat signature and absence of humanoid head-shoulder contour.",
+      "An infrared thermal image of a car distinguished by persistent thermal beacon absent in humanoid silhouettes.",
+      "An infrared thermal image of a car under partial occlusion with engine-bay glow and upper thermal contour remaining visible, unlike fragmented humanoid shapes of occluded pedestrians.",
+      "An infrared thermal image of a car at night displaying extreme thermal contrast from engine compartment and exhaust system, no seated torso posture or bicycle frame fusion visible."
+    ],
+    "person": [
+      "An infrared thermal image of a person presenting group thermal signature of multiple similar-sized warm blobs in dense campus pedestrian traffic.",
+      "An infrared thermal image of a person with clear neck thermal bridge connecting head-hotspot to torso in nighttime extreme contrast campus environments.",
+      "Nighttime extreme contrast rendering humanoid form as bright thermal beacon against cold background, dense group producing multiple similar warm blobs.",
+      "An infrared thermal image of a person presenting group behavior as multiple similar-sized warm blobs without the rectangular bulk or exhaust plume of cars.",
+      "An infrared thermal image of a person presenting vertical humanoid posture taller than seated positions with no attached vehicle components.",
+      "An infrared thermal image of a person at night exhibiting extreme thermal contrast with bright humanoid silhouette against rapidly cooling ambient surfaces.",
+      "An infrared thermal image of a person appearing as isolated thermal silhouette without rectangular bulk or engine-bay beacon of automotive targets.",
+      "An infrared thermal image of a person distinguished from seated forms by vertical stature and absence of attached vehicle components.",
+      "An infrared thermal image of a person demonstrating group behavior as multiple similar-sized warm blobs with consistent humanoid proportions.",
+      "An infrared thermal image of a person distinguishable from rider by standing height and free limbs; distinguishable from bicycle by warm core; distinguishable from car by humanoid shape."
+    ],
+    "rider": [
+      "An infrared thermal image of a rider distinguished from pedestrian by attached vehicle components and seated posture reducing apparent height.",
+      "A seated human torso heat signature fused to a bicycle frame with lower overall height than standing pedestrians.",
+      "An infrared thermal image of a rider distinguished from pedestrians by fixed seated posture and thermal bridge to vehicle seat, with possible wheel friction heat below.",
+      "An infrared thermal image of a rider distinguished from person by seated posture and frame fusion, from bicycle by biological heat presence, from car by small scale and absence of engine-bay glow.",
+      "An infrared thermal image of a rider distinguished by seated lower silhouette, human-frame thermal attachment, and lack of rectangular automotive bulk.",
+      "An infrared thermal image of a rider distinguished from car by small scale absence of rectangular bulk and absence of engine-bay thermal beacon.",
+      "An infrared thermal image of a rider distinguished from standalone bicycles by attached warm-blooded core and absence of cold frame isolation.",
+      "An infrared thermal image of a rider displaying seated human torso fused to bicycle frame with reduced vertical height versus standing pedestrian.",
+      "An infrared thermal image of a rider at nighttime with extreme contrast highlighting seated silhouette against cold pavement, human thermal core distinctly brighter than attached cold bicycle structure.",
+      "An infrared thermal image of a rider demonstrating distinctive seated bipedal thermal geometry with vehicle fusion absent in pure pedestrians."
+    ]
+  }
+}

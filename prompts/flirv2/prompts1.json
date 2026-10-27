@@ -1,0 +1,149 @@
+{
+  "dataset": "flirv2",
+  "prompts": {
+    "bike": [
+      "An infrared thermal image of a bike lacking any concentrated thermal source in the frame center, distinguishing it from motorized two-wheelers.",
+      "An infrared thermal image of a bike revealing small thermal footprint with wheel rotation blur and upright human adjacency.",
+      "An infrared thermal image of a bicycle identifiable by slender thermal contour lacking the bulk of motorized transport.",
+      "An infrared thermal image of a bicycle exhibiting upright riderless thermal silhouette or rider-seated posture with distinctive leg-pedal thermal motion blur.",
+      "An infrared thermal image of a bike with thermal signature dominated by rider if present, otherwise ghostly thin structure, brake calipers possible faint warm spots from recent use, no drivetrain heat plume, distinguishable from motor vehicles by orders of magnitude lower thermal emission.",
+      "An infrared thermal image of a bicycle distinguished by absence of exhaust manifold glow or engine-bay hotspot signature.",
+      "An infrared thermal image of a bike exhibiting upright human thermal silhouette merged with thin geometric frame, no exhaust plume, and small contact points with ground.",
+      "An infrared thermal image of a bike featuring elongated thin frame thermal signature between two modest wheel hotspots.",
+      "An infrared thermal image of a bike manifesting upright rider thermal silhouette perched atop minimal radiating chassis with spoked wheel patterns.",
+      "An infrared thermal image of a bike showing spoke-like thermal patterns within wheel circles and chain-drive area lacking thermal activity."
+    ],
+    "bus": [
+      "An infrared thermal image of a bus distinguished from truck by continuous window-band cold signature and absence of cargo-box thermal void.",
+      "An infrared thermal image of a bus revealing rear-mounted powertrain hotspot distinct from flat passenger deck thermal uniformity.",
+      "An infrared thermal image of a bus displaying public transit thermal silhouette, substantial roof thermal radiation, and engine-bay heat distinct from smaller commercial vehicles.",
+      "An infrared thermal image of a bus showing large rectangular passenger compartment thermal core, pronounced front axle engine heat, and extended wheelbase thermal markers.",
+      "An infrared thermal image of a bus demonstrating high roofline thermal silhouette exceeding truck proportions.",
+      "An infrared thermal image of a bus displaying lengthy uniform thermal body with pronounced front engine-bay hotspot, stepwell thermal leakage near doors, roof equipment thermal radiation, distinguishable from shorter vehicles.",
+      "An infrared thermal image of a bus featuring elevated passenger deck thermal signature with stepwell heat concentration, articulated variants showing hinge thermal flex point.",
+      "An infrared thermal image of a bus showing extended wheelbase with multiple axle thermal points and large passenger compartment thermal signature.",
+      "An infrared thermal image of a bus with entry door thermal frame distinct from solid cargo vehicles.",
+      "An infrared thermal image of a bus exhibiting maximum passenger vehicle thermal envelope, forward engine compartment dominant glow, and characteristic length-to-height thermal ratio."
+    ],
+    "car": [
+      "An infrared thermal image of a car captured from behind showing dual exhaust thermal points, rear window thermal frame, and license plate area as a cool rectangular patch.",
+      "An infrared thermal image of a car lacking extended cargo bed thermal void behind cabin.",
+      "An infrared thermal image of a car distinguished from van by lower roof height and more pronounced hood-to-windshield thermal angle.",
+      "An infrared thermal image of a car revealing taxi or police variant through roof-mounted equipment thermal shadow, high-occupancy thermal load if occupied, distinctive from motorcycle by enclosed cabin thermal volume, from truck by scale and absence of separate cargo thermal zone.",
+      "An infrared thermal image of a car exhibiting typical four-door thermal length with headlight heat emission zones and license plate cold rectangle.",
+      "An infrared thermal image of a car showing headlamp thermal leakage, license-plate frame heat shadow, and engine-bay positioned ahead of windshield base.",
+      "An infrared thermal image of a car showing headlight thermal cavities as small bright spots flanking the cooler grille area, distinguishing from larger vehicle proportions.",
+      "An infrared thermal image of a car displaying rounded roof thermal contour and trunk-lid heat signature distinct from boxy van shapes.",
+      "An infrared thermal image of a car displaying sedan or hatchback thermal proportion with rear window cold band and exhaust pipe terminal hotspot.",
+      "An infrared thermal image of a car exhibiting compact engine thermal concentration, windshield steep cold reflection angle, hood thermal length shorter than truck, cabin thermal height limited, wheelbase thermal proportion, rear bumper thermal surface, distinguishable from van by lower roofline thermal signature."
+    ],
+    "hydrant": [
+      "An infrared thermal image of a hydrant exhibiting compact aspect ratio taller than wide with chain-linked cap thermal traces.",
+      "An infrared thermal image of a hydrant with solitary thermal point character, vertical aspect ratio distinguishing from horizontal vehicles, and ground-coupled base warmth.",
+      "An infrared thermal image of a hydrant exhibiting thermal mass too small for vehicle classification, too large and rigid for animate movement, and vertical orientation distinct from horizontal signs.",
+      "An infrared thermal image of a hydrant exhibiting thermal mass from water content with slow temperature change and distinctive aspect ratio taller than wide.",
+      "An infrared thermal image of a hydrant with weathered surface thermal uniformity, no exhaust or engine signature, and static thermal presence day-long.",
+      "An infrared thermal image of a hydrant with stubby pillar thermal outline lacking horizontal extension or motion blur",
+      "An infrared thermal image of a hydrant presenting non-vehicular thermal signature with vertical orientation and minimal height.",
+      "An infrared thermal image of a hydrant revealing isolated thermal pillar with uniform circumferential heat signature, stubby vertical profile distinct from traffic poles, and thermal cap or nozzle protrusions at top.",
+      "An infrared thermal image of a hydrant presenting a vertical cylindrical thermal column with domed top heat signature.",
+      "An infrared thermal image of a hydrant showing vertical cylindrical thermal mass with domed top, isolated from vehicle traffic patterns, and standing on sidewalk thermal boundary."
+    ],
+    "light": [
+      "An infrared thermal image of a light presenting traffic signal or streetlamp thermal signature with LED or HID thermal conversion waste heat signature.",
+      "An infrared thermal image of a light with pedestrian signal as smaller secondary warm rectangle below main fixture, push-button warmth at pole mid-height.",
+      "An infrared thermal image of a light displaying street-level bollard thermal cylinder or overhead gantry thermal array, electrical junction warmth.",
+      "An infrared thermal image of a light displaying thin vertical thermal line with small bright apex, electrical fixture heat without exhaust plume.",
+      "An infrared thermal image of a light revealing fixture housing thermal glow distinct from ambient background temperature.",
+      "An infrared thermal image of a light revealing streetlamp domed thermal diffuser with characteristic downward-facing heat radiation pattern.",
+      "An infrared thermal image of a light showing elevated pole-mounted thermal point source with downward radiant pattern.",
+      "An infrared thermal image of a light revealing elevated pole-mounted thermal fixture with downward-facing radiating surface and housing heat accumulation.",
+      "An infrared thermal image of a light exhibiting lamp housing thermal glow against cold sky background gradient",
+      "An infrared thermal image of a light exhibiting thermal bloom halo around fixture from air heating."
+    ],
+    "motor": [
+      "An infrared thermal image of a motor exhibiting single-rider thermal silhouette with helmet-topped head thermal point.",
+      "An infrared thermal image of a motorcycle identifiable by engine-bay glow absent in human-powered two-wheel transport.",
+      "An infrared thermal image of a motorcycle with bulky mechanical thermal focus, pronounced engine hotspot, extended pipe thermal emission, and human-machine thermal boundary blur.",
+      "An infrared thermal image of a motor distinguished from bikes by combustion-engine thermal signature and from cars by exposed rider thermal silhouette above.",
+      "An infrared thermal image of a motor revealing two-wheel vehicle with massive central engine-bay glow absent in bicycle frames.",
+      "An infrared thermal image of a motorcycle presenting engine-bay glow absent from bicycle frame geometries.",
+      "An infrared thermal image of a motor showing compact two-wheeled vehicle with exposed cylinder head glow and minimal fairing thermal masking.",
+      "An infrared thermal image of a motorcycle showing headlamp housing warmth, fork tube thermal silhouette, and rear tire thermal signature under fender absence.",
+      "An infrared thermal image of a motorcycle displaying rider straddling thermal engine core, smaller thermal footprint than cars, and prominent cylinder head thermal bright spot.",
+      "An infrared thermal image of a motor presenting a powered two-wheeler with engine-casing thermal glow absent in bicycles, rider torso upright and centered."
+    ],
+    "other vehicle": [
+      "An infrared thermal image of other vehicle showing unconventional thermal silhouette with wheeled mobility yet deviating from standard car truck bus motorcycle categories.",
+      "An infrared thermal image of other vehicle showing anomalous thermal silhouette defying standard car truck bus motorcycle categories, with irregular heat distribution and unconventional proportions.",
+      "An infrared thermal image of another vehicle exhibiting construction machinery thermal traits with boom arm heat signature and track base.",
+      "An infrared thermal image of another vehicle exhibiting trailer thermal isolation with no engine hotspot and passive cargo warmth.",
+      "An infrared thermal image of other vehicle displaying thermal signature not matching typical car truck bus motorcycle patterns.",
+      "An infrared thermal image of other vehicle showing thermal characteristics of motorized transport without fitting car truck bus motor categories, unusual thermal scale or proportion, modified vehicle thermal signature, emergency or utility vehicle thermal patterns, catch-all thermal class for edge cases.",
+      "An infrared thermal image of other vehicle lacking classification match to car truck bus or motor patterns.",
+      "An infrared thermal image of other vehicle distinguished by anomalous thermal proportions and non-standard heat signature arrangement.",
+      "An infrared thermal image of other vehicle revealing thermal anomaly requiring classification outside pedestrian bicycle car truck bus motor taxonomy.",
+      "An infrared thermal image of other vehicle displaying thermal features inconsistent with typical car truck bus motorcycle categories."
+    ],
+    "person": [
+      "An infrared thermal image of a person revealing vertical thermal stance, arm swing thermal trails, and head as highest thermal point in pedestrian-scale object.",
+      "An infrared thermal image of a person displaying walking gait thermal motion blur, arm swing thermal arcs, and shoulder-width thermal proportion.",
+      "An infrared thermal image of a person exhibiting motion thermal blur from walking gait, stationary thermal stance at crossing, or arm-raising thermal signal gesture.",
+      "An infrared thermal image of a person demonstrating pedestrian-scale height distinct from vehicle rooflines.",
+      "An infrared thermal image of a person displaying vertical posture with arms swinging in gait thermal blur.",
+      "An infrared thermal image of a person displaying vertical posture with two leg thermal columns and arm swing motion blur.",
+      "An infrared thermal image of a person displaying vertical posture with arm-swing motion blur and gait thermal pattern.",
+      "An infrared thermal image of a person with bicycle-pushing or stroller-pushing thermal posture, arm extension thermal geometry, and companion object thermal proximity.",
+      "An infrared thermal image of a person with shoulder-width thermal span, upright walking thermal trajectory, and distinct from vehicle heat signatures entirely.",
+      "An infrared thermal image of a person exhibiting clothing thermal insulation variation creating patchwork emissivity contrast patterns."
+    ],
+    "sign": [
+      "An infrared thermal image of a sign revealing directional arrow thermal void pattern in flat panel surface.",
+      "An infrared thermal image of a traffic sign revealing planar thermal rectangle, even board warmth emission, metallic post thermal darkness, and negligible depth thermal signature.",
+      "An infrared thermal image of a sign showing flat planar thermal surface with uniform passive temperature, mounted on cold support pole, lacking internal heat.",
+      "An infrared thermal image of a sign showing street sign thermal profile, pole-mounted or overhead thermal structure, and surface thermal uniformity without textural detail.",
+      "An infrared thermal image of a traffic sign displaying rectangular or diamond thermal geometry elevated on pole with ground anchor heat sink.",
+      "An infrared thermal image of a sign showing speed limit numerical thermal shape, stop sign octagonal thermal perimeter, or directional arrow thermal pointer.",
+      "An infrared thermal image of a traffic sign displaying elevated roadside thermal geometry with reflective sheeting cold low-emissivity face.",
+      "An infrared thermal image of a sign showing flat planar thermal surface, uniform or patterned thermal emission, post-mounted thermal base, passive thermal characteristics without internal heat, reflective sheeting thermal properties, textural thermal uniformity, roadside informational thermal marker, environmental thermal equilibrium.",
+      "An infrared thermal image of a sign showing edge thermal definition sharper than organic object boundaries.",
+      "An infrared thermal image of a sign showing construction temporary thermal flexibility, reflective sheeting thermal specularity, and warning diamond thermal outline."
+    ],
+    "skateboard": [
+      "An infrared thermal image of a skateboard showing thin thermal board, four wheel thermal markers, absence of powertrain heat, rapid thermal equilibrium, riding surface thermal uniformity, truck thermal assemblies, minimal thermal profile, human-powered thermal indication.",
+      "An infrared thermal image of a skateboard with wooden or composite deck thermal mass, metal truck thermal contrast, and wheel thermal bearing friction signature.",
+      "An infrared thermal image of a skateboard with truck axle thermal points smaller than bicycle hub signatures.",
+      "An infrared thermal image of a skateboard revealing flat thermal rectangle, wheel-set thermal quartets, no combustion thermal signature, low thermal capacity, deck material thermal emission, axle thermal linkages, ground-level thermal position, youth transport thermal characteristics.",
+      "An infrared thermal image of a skateboard presenting longboard thermal extended length, larger wheel thermal diameter, reverse kingpin truck thermal geometry, downhill speed thermal loading in bearings, specialized variant thermal profile within skateboard category, cruiser or downhill thermal distinction.",
+      "An infrared thermal image of a skateboard featuring compact thermal length significantly shorter than bicycle signatures.",
+      "An infrared thermal image of a skateboard revealing thin rectangular thermal shape, truck hardware thermal bridges, and purely human-powered absence of mechanical heat.",
+      "An infrared thermal image of a skateboard displaying minimal thermal mass, wooden or composite deck thermal signature, and truck axle thermal lines.",
+      "An infrared thermal image of a skateboard showing fallen or abandoned thermal isolation from rider, complete minimal thermal signature, easily confused with debris or shadow, detection challenge for thermal systems, lowest thermal mass vehicle in standard classification, edge case thermal object.",
+      "An infrared thermal image of a skateboard displaying flat thermal plank, wheel quartet thermal signatures, absence of motorized heat, minimal thermal retention, deck thermal emission, truck thermal junctions, low thermal elevation, human-propelled thermal footprint."
+    ],
+    "stroller": [
+      "An infrared thermal image of a stroller showing sunshade thermal outline and harness buckle heat points, occupied versions showing small body thermal signature.",
+      "An infrared thermal image of a stroller where storage basket thermal void beneath seat creates negative space in heat signature.",
+      "An infrared thermal image of a stroller identifiable by diminutive passenger thermal core within mechanical rolling framework.",
+      "An infrared thermal image of a stroller exhibiting small occupant thermal core with surrounding protective structure heat signature.",
+      "An infrared thermal image of a stroller displaying three or four wheel thermal points and fabric canopy emissivity pattern.",
+      "An infrared thermal image of a stroller displaying suppressed thermal height, clustered diminutive wheel heat, cloth structure thermal suppression, and possible small passenger thermal indicator.",
+      "An infrared thermal image of a stroller revealing sidewalk thermal context, thermal mass appropriate to child plus carriage, and thermal absence of engine or powertrain.",
+      "An infrared thermal image of a stroller showing triangular or rectangular frame thermal geometry, shopping basket as lower thermal void, and wheel diameter smaller than bicycle.",
+      "An infrared thermal image of a stroller displaying pusher thermal silhouette behind and above, small occupant warm-blooded thermal core enclosed by fabric insulation.",
+      "An infrared thermal image of a stroller displaying handlebar thermal signature at adult waist height with lower basket heat pattern."
+    ],
+    "truck": [
+      "An infrared thermal image of a truck distinguished from bus by absence of uniform passenger thermal load along vehicle length.",
+      "An infrared thermal image of a truck appearing as heavy commercial thermal entity with load-bearing chassis heat signature.",
+      "An infrared thermal image of a truck with longer thermal wheelbase than cars and distinct cargo area thermal uniformity.",
+      "An infrared thermal image of a truck distinguished from buses by absence of continuous passenger thermal loading along full length.",
+      "An infrared thermal image of a truck distinguished from bus by absence of continuous passenger thermal envelope along chassis.",
+      "An infrared thermal image of a truck distinguished from buses by discontinuous thermal envelope with gap between power unit and payload.",
+      "An infrared thermal image of a truck with intense forward thermal source, elongated cargo thermal section, rear axle thermal multiplicity, operator compartment thermal radiation, high thermal capacity, stack exhaust thermal column, substantial wheelbase thermal span, logistics vehicle thermal signature.",
+      "An infrared thermal image of a truck identifiable by cab-over or conventional hood thermal profile with extended rear thermal platform.",
+      "An infrared thermal image of a truck with massive engine-bay thermal signature, extended chassis thermal length, refrigerated unit thermal machinery if present, trailer thermal connection, distinguishable from all passenger vehicles by thermal scale and cargo thermal configuration, freight transport thermal signature.",
+      "An infrared thermal image of a truck showing a hood thermal proportion shorter relative to total length compared to passenger cars."
+    ]
+  }
+}

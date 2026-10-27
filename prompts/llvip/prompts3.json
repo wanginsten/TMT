@@ -1,0 +1,29 @@
+{
+  "dataset": "llvip",
+  "prompts": {
+    "background": [
+      "An infrared patch of class background showing a brick wall as a flat cold vertical surface with homogeneous emissivity and no limb articulation.",
+      "An infrared patch of class background revealing flat vertical concrete plane with homogeneous emissivity and no internal heat generation pattern.",
+      "An infrared patch of class background presenting parked vehicle roof as rectangular cold surface with possible residual hood heat but no humanoid form.",
+      "An infrared patch of class background displaying static building wall as flat uniform low-emissivity vertical surface lacking limb articulation.",
+      "An infrared patch of class background manifesting a parked vehicle roof as a broad low-temperature horizontal plane with edge-defined geometry unlike humanoid vertical elongation.",
+      "An infrared patch of class background revealing rectangular vehicle roof with possible hood residual heat but no humanoid vertical structure.",
+      "An infrared patch of class background revealing a flat vertical concrete surface with uniform emissivity and absence of endothermic heat generation or limb definition.",
+      "An infrared patch of parked vehicle roof with rectangular thermal geometry and possible hood residual heat.",
+      "An infrared patch of class background revealing parked vehicle roof as horizontal rectangular cold surface with possible residual hood warmth.",
+      "A parked vehicle roof showing rectangular thermal geometry with possible hood residual heat but no head-shoulder-limb signature."
+    ],
+    "person": [
+      "An infrared patch of class person demonstrating clothing-masked yet coherent warm foreground figure with preserved upright posture.",
+      "An infrared patch of class person exhibiting coherent warm-blooded silhouette with cranial thermal maximum and vertical posture against cold ambient.",
+      "An infrared patch of class person showing clothing-attenuated but still prominent body heat forming an unmistakable upright thermal silhouette.",
+      "An infrared patch of class person displaying coherent torso heat with radiating arm appendages and leg thermal extensions forming upright humanoid geometry.",
+      "An infrared patch capturing a bipedal warm-blooded silhouette with articulated limb heat signatures and cranial thermal maximum typical of human physiology.",
+      "An infrared patch containing a warm-blooded silhouette with head as brightest region and vertically elongated torso.",
+      "An infrared patch of class person capturing an upright humanoid contour with partial clothing attenuation yet persistent core body heat emission.",
+      "An infrared patch of class person showing clothing-damped but still coherent warm figure with preserved head-shoulder thermal hierarchy and internal heat generation.",
+      "An infrared patch of class person presenting a clothed figure whose reduced surface radiance still maintains clear humanoid contour against cold ambient.",
+      "An infrared patch of a clothed pedestrian retaining clear upright humanoid contour despite reduced surface temperature from fabric."
+    ]
+  }
+}

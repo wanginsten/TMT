@@ -1,0 +1,29 @@
+{
+  "dataset": "llvip",
+  "prompts": {
+    "background": [
+      "An infrared patch of class background revealing flat vertical concrete plane with homogeneous cold emissivity and no internal heat generation.",
+      "An infrared patch of class background showing parked vehicle roof as a horizontal rectangular cold surface without head-shoulder heat distribution.",
+      "An infrared patch of class background capturing a parked vehicle roof with rectangular thermal geometry and possible hood residual heat but no head-shoulder-limb articulation.",
+      "An infrared patch of class background capturing a parked vehicle roof with rectangular thermal geometry and no head-shoulder hotspot pattern.",
+      "An infrared patch of class background presenting a parked vehicle roof as broad flat thermal mass with possible hood residual heat lacking humanoid vertical structure.",
+      "An infrared patch of class background showing a brick building wall as a flat vertical surface with uniform low-emissivity thermal signature.",
+      "An infrared patch of class background displaying building wall as uniform low-emissivity vertical plane absent endothermic signature or limb structure.",
+      "An infrared patch of class background capturing parked vehicle roof as rectangular cold surface with possible hood residual heat but no head hotspot.",
+      "An infrared patch of class background presenting a parked vehicle roof as a horizontal cold rectangle with possible hood residual heat but absent humanoid contour.",
+      "An infrared patch of class background revealing a flat vertical concrete wall with no internal heat generation or humanoid contour."
+    ],
+    "person": [
+      "An infrared patch showing a coherent warm vertical form with partial clothing masking yet preserved internal heat generation and bipedal stance.",
+      "A clothed human figure with partially masked but still detectable warm-blooded thermal core and vertical humanoid outline.",
+      "An infrared patch of class person showing two similar-sized warm thermal blobs indicating paired pedestrians with synchronized upright posture.",
+      "An infrared patch of class person showing an upright bipedal thermal silhouette with distinct head-shoulder-torso heat stratification against cold ambient.",
+      "An infrared patch of class person revealing a coherent warm-blooded silhouette with partial clothing attenuation but preserved humanoid contour.",
+      "An infrared patch showing a clothed figure whose reduced but persistent endothermic radiance maintains clear bipedal structure against cold backdrop.",
+      "An infrared patch of class person exhibiting a vertical bipedal thermal silhouette with pronounced head hotspot as apex radiance.",
+      "An infrared patch of a warm-blooded pedestrian exhibiting a bright head region and elongated torso with thermally active appendages.",
+      "An infrared patch of class person showing an endothermic bipedal thermal mass with a distinct cranial hotspot and radiating limb articulation against cold ambient surroundings.",
+      "An infrared patch of class person showing an endothermic bipedal thermal mass with a distinct cranial hotspot radiating above cold ambient surroundings."
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "dataset": "flirv1",
+  "prompts": {
+    "bicycle": [
+      "An infrared thermal image of a bicycle with a pedaling human showing leg motion blur and small foot thermal prints.",
+      "An infrared thermal image of a bicycle showing pedal-driven motion blur on thin rims, upright rider silhouette detached from minimal frame radiation.",
+      "An infrared thermal image of a bicycle presenting angular geometric thermal edges from diamond-shaped frame geometry.",
+      "An infrared thermal image of a bicycle revealing two small circular tire warm spots joined by slender metallic thermal bridges.",
+      "An infrared thermal image of a bicycle revealing pedal-crank area as cold metal reflection with wheel spokes invisible and rider legs pedaling above.",
+      "An infrared thermal image of a bicycle with pedal crank area showing minimal thermal accumulation, chain appearing as faint thermal trace, and distinctive double-wheel silhouette.",
+      "An infrared thermal image of a bicycle where chain and gear cluster appear at background temperature, unlike motorcycle drivetrain thermal emission.",
+      "An infrared thermal image of a bicycle with wheels cooler than tire friction would produce, frame members too slender for engine housing dimensions.",
+      "An infrared thermal image of a bicycle presenting minimal thermal silhouette mass compared to motorized vehicle counterparts.",
+      "An infrared thermal image of a bicycle exhibiting two small thermal circles for wheels joined by a faint linear frame with zero exhaust plume signature."
+    ],
+    "car": [
+      "An infrared thermal image of a car exhibiting rectangular cabin silhouette with warm windshield boundary from defroster airflow.",
+      "An infrared thermal image of a car exhibiting a substantial thermal bulk with engine-bay hotspot separated from passenger compartment by a thermal bridge.",
+      "An infrared thermal image of a car featuring prominent grille thermal pattern from cooling system, windshield frame edges glowing slightly, rear window defroster traces occasionally visible as linear warmth.",
+      "An infrared thermal image of a car exhibiting engine-bay hotspot larger than wheel thermal signatures, cabin greenhouse effect warmth, and trunk area cooler than occupied front seats.",
+      "An infrared thermal image of a car featuring roof thermal silhouette lower than commercial vehicle profiles.",
+      "An infrared thermal image of a car with passenger compartment thermal mass, hood surface warmer than roof due to engine proximity, differential cooling along body panels.",
+      "An infrared thermal image of a car showing roof and trunk as uniform radiating panels with differential engine-bay brightness.",
+      "An infrared thermal image of a car revealing rectangular cabin silhouette with warm windshield boundary, hood thermal gradient peaking at radiator position.",
+      "An infrared thermal image of a car showing prominent rectangular engine-bay thermal hotspot at front, distinct from cooler cabin and trunk surfaces.",
+      "An infrared thermal image of a car exhibiting horizontal roofline thermal silhouette with distinct hood and trunk thermal levels."
+    ],
+    "dog": [
+      "An infrared thermal image of a dog lacking bipedal vertical torso orientation of human thermal silhouette.",
+      "An infrared thermal image of a dog lacking the vertical bipedal stance and distinct limb separation of human subjects.",
+      "An infrared thermal image of a dog showing head thermal proportion smaller relative to torso than human bipedal figure.",
+      "An infrared thermal image of a dog demonstrating organic irregular thermal contours lacking geometric vehicle symmetry.",
+      "An infrared thermal image of a dog distinguished from person by quadruped stance, elongated thermal body axis, and proportionally larger head-to-body thermal ratio.",
+      "An infrared thermal image of a dog displaying a body-to-head thermal ratio substantially larger than human proportions.",
+      "An infrared thermal image of a dog lacking vertical torso thermal extension and showing quadrupedal gait heat motion pattern.",
+      "An infrared thermal image of a dog revealing collar as thin thermal ring interruption, four-footed stance width narrower than human shoulder span.",
+      "An infrared thermal image of a dog with head thermal proportion smaller relative to torso compared to upright biped.",
+      "An infrared thermal image of a dog presenting horizontal thermal posture distinct from upright bipedal stance."
+    ],
+    "person": [
+      "An infrared thermal image of a person displaying a tall narrow thermal aspect ratio, clothing insulation creating uneven surface temperature, and hand thermal extremities at mid-torso height.",
+      "An infrared thermal image of a person revealing clothing insulation as variable surface temperature with exposed face as high-emissivity thermal focal point.",
+      "An infrared thermal image of a person showing vertical standing posture with head as highest thermal point, broad shoulder thermal width, and arm thermal extensions.",
+      "An infrared thermal image of a person revealing anthropomorphic thermal geometry of elongated upright form with arm-swing thermal motion artifacts.",
+      "An infrared thermal image of a person distinguished from dog by upright stance, tall vertical thermal proportion, separated bipedal leg thermal signature, and arm thermal appendages.",
+      "An infrared thermal image of a person showing bipedal upright thermal silhouette with vertical torso, separated leg thermal columns, and elevated head thermal node.",
+      "An infrared thermal image of a person showing standing or walking posture with thermal height exceeding animal classes and no wheeled attachment.",
+      "An infrared thermal image of a person showing clothing fold thermal gradients and backpack cold reflection.",
+      "An infrared thermal image of a person displaying upright bipedal thermal stance with vertical torso and elevated head position.",
+      "An infrared thermal image of a person displaying a large thermal head proportionally prominent above narrow shoulder width."
+    ]
+  }
+}

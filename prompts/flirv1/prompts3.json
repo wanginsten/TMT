@@ -1,0 +1,53 @@
+{
+  "dataset": "flirv1",
+  "prompts": {
+    "bicycle": [
+      "An infrared thermal image of a bicycle revealing handlebar thermal imprints from hand contact, frame lacking the uniform warmth of an engine compartment.",
+      "An infrared thermal image of a bicycle exhibiting upright narrow profile with handlebar thermal contour distinct from engine-block shapes.",
+      "An infrared thermal image of a bicycle displaying two distinct rim-shaped thermal contours lacking any exhaust plume or powertrain hotspot.",
+      "An infrared thermal image of a bicycle displaying an open-frame thermal geometry with large gaps between structural members, absent radiator grille pattern, and seat post as a solitary vertical thermal line.",
+      "An infrared thermal image of a bicycle revealing thin linear frame elements lacking any centralized engine heat source.",
+      "An infrared thermal image of a bicycle showing thin linear frame elements with no engine heat source and two small circular wheel thermal signatures.",
+      "An infrared thermal image of a bicycle presenting a riderless upright or fallen thin thermal silhouette lacking torso mass.",
+      "An infrared thermal image of a bicycle showing a narrow diagonal frame structure connecting two small thermal circles of equal diameter.",
+      "An infrared thermal image of a bicycle displaying elongated narrow structural members forming a triangular silhouette lacking any engine-bay thermal glow.",
+      "An infrared thermal image of a bicycle showing thin linear frame elements with no engine heat signature, riderless or with cyclist adding separate thermal mass above."
+    ],
+    "car": [
+      "An infrared thermal image of a car displaying a broad rectangular thermal mass with prominent engine-bay glow concentrated at the front and dual axle thermal points.",
+      "An infrared thermal image of a car showing elongated horizontal thermal mass with engine-bay glow offset forward of geometric center, roof thermal bridge cooling to sky temperature.",
+      "An infrared thermal image of a car featuring a roof thermal silhouette cooler than cabin body with side mirror stalks as small protruding warm points.",
+      "An infrared thermal image of a car exhibiting four wheel thermal signatures arranged in symmetrical rectangular pattern with axle heat dissipation.",
+      "An infrared thermal image of a car where the rear trunk section shows cooler uniform radiating surface than the engine bay.",
+      "An infrared thermal image of a car where the front grille area shows heat dissipation patterns, cabin windows transmit minimal thermal radiation, and rear bumper lacks exhaust manifold intensity.",
+      "An infrared thermal image of a car featuring dominant horizontal thermal mass, front-grille engine heat radiation, and symmetric side mirror thermal points contrasting with cold glass roof reflections.",
+      "An infrared thermal image of a car featuring a closed passenger compartment with uniform roof thermal radiation.",
+      "An infrared thermal image of a car exhibiting windshield cold reflection, warm-blooded occupant thermal blobs visible through glass, and distinctive automotive silhouette with engine-forward thermal asymmetry.",
+      "An infrared thermal image of a car showing hood thermal gradient peaking at grille location with radiator heat dissipation pattern."
+    ],
+    "dog": [
+      "An infrared thermal image of a dog showing quadruped gait pattern with diagonal leg pairs warming alternately, body length roughly equal to shoulder height.",
+      "An infrared thermal image of a dog exhibiting four-legged stance with belly thermal signature near cold pavement surface.",
+      "An infrared thermal image of a dog demonstrating lateral thermal asymmetry when walking, body-hugging leg positioning, and absence of upright bipedal gait pattern in sequential motion capture.",
+      "An infrared thermal image of a dog displaying canine-proportioned thermal anatomy, belly thermal zone near cold pavement, and head thermal size exceeding human head-to-body ratio.",
+      "An infrared thermal image of a dog with belly thermal warmth close to ground, lacking bipedal upright posture.",
+      "An infrared thermal image of a dog displaying horizontal spine thermal line with belly thermal surface near ground temperature.",
+      "An infrared thermal image of a dog exhibiting head thermal signature proportionally smaller than torso mass.",
+      "An infrared thermal image of a dog exhibiting a compact torso thermal core with proportionally larger head-to-body ratio than humans.",
+      "An infrared thermal image of a dog distinguished from human by horizontal spine orientation and four-point ground contact.",
+      "An infrared thermal image of a dog exhibiting ground-hugging thermal contour with shoulder-to-hip length exceeding height proportion"
+    ],
+    "person": [
+      "An infrared thermal image of a person displaying bipedal upright thermal silhouette with vertical orientation.",
+      "An infrared thermal image of a person displaying bipedal upright thermal silhouette with vertical torso orientation.",
+      "An infrared thermal image of a person showing bipedal upright thermal silhouette with elongated vertical torso axis.",
+      "An infrared thermal image of a person showing bipedal upright thermal silhouette with vertical torso dominance and elevated head heat signature.",
+      "Infrared view of a person displaying high aspect ratio vertical silhouette with head as uppermost thermal feature and bipedal base contact.",
+      "An infrared thermal image of a person with hand thermal terminations showing finger separation at distal arm endpoints.",
+      "An infrared thermal image of a person showing a bipedal upright thermal silhouette with vertical elongated proportions.",
+      "A person captured in infrared exhibiting tall vertical warm-blooded signature with distinct separation between upper body and lower limb thermal zones.",
+      "An infrared thermal image of a person showing bipedal upright thermal silhouette with vertical posture dominance.",
+      "An infrared thermal image of a person with bipedal upright thermal silhouette and vertical orientation."
+    ]
+  }
+}
